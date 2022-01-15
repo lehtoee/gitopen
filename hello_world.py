@@ -1,7 +1,4 @@
 print("Hello world!")
+print("Hello darkness my old friend")
 
-
-print("Hello from feature")
-
-
-print("Hello from release")
+print("I've come to talk with you again")
